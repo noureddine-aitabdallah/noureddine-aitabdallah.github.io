@@ -1,0 +1,27 @@
+body {
+	padding-top: 100px;
+	position: relative;
+}
+
+.footer {
+	background-color: #f5f5f5;
+}
+
+.col-md-12 {
+	margin-top: 40px !important;
+}
+
+#footer-space {
+	margin-bottom: 200px;
+}
+
+.icon {
+	font-size: 50px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.icon:hover {
+	opacity: 0.7;
+}
